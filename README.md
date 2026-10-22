@@ -2,7 +2,7 @@
 
 <!-- Hero Banner (Self-hosted SVG) -->
 <a href="https://abhinavkumar-dev.vercel.app/">
-  <img src="./assets/banner.svg" alt="Abhinav Kumar - AI, Machine Learning, Data Analytics & Bioinformatics Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Abhinav Kumar - AI & ML, Deep Learning, Bioinformatics & Data Analytics Banner" width="100%" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,11 @@ My work focuses on designing predictive architectures, synthesizing high-dimensi
 ```yaml
 identity:
   name: "Abhinav Kumar"
-  focus_areas: ["Machine Learning", "Deep Learning", "Data Analytics", "Bioinformatics"]
+  focus_areas:
+    - "AI & ML"
+    - "Deep Learning"
+    - "Bioinformatics"
+    - "Data Analytics"
   education: "B.Tech in CSE (AI/ML) · Sreyas Institute, Hyderabad [2024 — 2028]"
   location: "Hyderabad, Telangana, India [GMT +5:30]"
   current_status: "Undergraduate Researcher & Engineer"
@@ -49,7 +53,7 @@ identity:
 
 <table>
   <tr>
-    <td width="30%" valign="top"><b>AI & Machine Learning</b><br/><i>Predictive algorithms, validation & interpretability</i></td>
+    <td width="30%" valign="top"><b>01 / AI & Machine Learning</b><br/><i>Predictive algorithms, validation & interpretability</i></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
       <img src="https://img.shields.io/badge/Random_Forests_&_Ensembles-14b8a6?style=flat-square" alt="Random Forests"/>
@@ -59,18 +63,7 @@ identity:
     </td>
   </tr>
   <tr>
-    <td width="30%" valign="top"><b>Data Analytics & Computing</b><br/><i>Statistical synthesis, data modeling & EDA</i></td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-10b981?style=flat-square" alt="EDA"/>
-      <img src="https://img.shields.io/badge/SQL_Queries_&_Aggregations-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top"><b>Deep Learning & Modeling</b><br/><i>Neural architectures & multi-horizon forecasting</i></td>
+    <td width="30%" valign="top"><b>02 / Deep Learning</b><br/><i>Neural architectures & multi-horizon forecasting</i></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Neural_Network_Modeling-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Neural Networks"/>
       <img src="https://img.shields.io/badge/Multi--Horizon_Forecasting-2dd4bf?style=flat-square" alt="Multi-Horizon Forecasting"/>
@@ -79,12 +72,23 @@ identity:
     </td>
   </tr>
   <tr>
-    <td width="30%" valign="top"><b>Bioinformatics & Life Sciences</b><br/><i>Computational biology & healthcare prognostics</i></td>
+    <td width="30%" valign="top"><b>03 / Bioinformatics</b><br/><i>Computational biology & healthcare prognostics</i></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/BioPython-059669?style=flat-square" alt="BioPython"/>
       <img src="https://img.shields.io/badge/Genomic_Sequence_Exploration-0284c7?style=flat-square" alt="Genomic Sequence"/>
       <img src="https://img.shields.io/badge/Healthcare_AI_Diagnostics-ec4899?style=flat-square" alt="Healthcare Diagnostics"/>
       <img src="https://img.shields.io/badge/Biomolecular_Modeling-8b5cf6?style=flat-square" alt="Biomolecular Modeling"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>04 / Data Analytics</b><br/><i>Statistical synthesis, data modeling & EDA</i></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-10b981?style=flat-square" alt="EDA"/>
+      <img src="https://img.shields.io/badge/SQL_Queries_&_Aggregations-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
     </td>
   </tr>
   <tr>

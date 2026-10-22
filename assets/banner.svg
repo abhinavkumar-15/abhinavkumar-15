@@ -78,7 +78,7 @@
   <!-- Main Hero Heading -->
   <g transform="translate(60, 140)">
     <text x="0" y="0" fill="#f4f4f5" class="serif" font-size="52" font-weight="400" letter-spacing="-0.5">Abhinav Kumar</text>
-    <text x="410" y="-8" fill="#2dd4bf" class="mono" font-size="12.5" letter-spacing="2.5">[ AI · ML · DATA ANALYTICS · BIOINFORMATICS ]</text>
+    <text x="360" y="-8" fill="#2dd4bf" class="mono" font-size="12" letter-spacing="2">[ AI &amp; ML · DEEP LEARNING · BIOINFORMATICS · DATA ANALYTICS ]</text>
     
     <!-- Accent Line -->
     <rect x="0" y="16" width="1080" height="1.5" fill="url(#accentLine)" />
@@ -94,28 +94,28 @@
 
   <!-- Bottom Metric & Focus Cards -->
   <g transform="translate(60, 275)">
-    <!-- Card 1: Machine Learning -->
+    <!-- Card 1: AI & ML -->
     <rect x="0" y="0" width="250" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="16" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">01 / DISCIPLINE</text>
-    <text x="16" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Machine Learning &amp; DL</text>
-    <text x="16" y="58" fill="#2dd4bf" class="mono" font-size="10">LOBO CV · SHAP · Ridge · PyTorch</text>
+    <text x="16" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">01 / PILLAR</text>
+    <text x="16" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">AI &amp; ML</text>
+    <text x="16" y="58" fill="#2dd4bf" class="mono" font-size="10">Scikit-learn · Random Forests · SHAP</text>
 
-    <!-- Card 2: Data Analytics -->
+    <!-- Card 2: Deep Learning -->
     <rect x="275" y="0" width="250" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="291" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">02 / CORE PILLAR</text>
-    <text x="291" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Data Analytics &amp; EDA</text>
-    <text x="291" y="58" fill="#38bdf8" class="mono" font-size="10">Pandas · NumPy · Visual Analytics</text>
+    <text x="291" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">02 / PILLAR</text>
+    <text x="291" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Deep Learning</text>
+    <text x="291" y="58" fill="#38bdf8" class="mono" font-size="10">Neural Networks · Multi-Horizon · LOBO</text>
 
     <!-- Card 3: Bioinformatics -->
     <rect x="550" y="0" width="250" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="566" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">03 / FRONTIER</text>
+    <text x="566" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">03 / PILLAR</text>
     <text x="566" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Bioinformatics</text>
-    <text x="566" y="58" fill="#10b981" class="mono" font-size="10">BioPython · Genomic Sequences</text>
+    <text x="566" y="58" fill="#10b981" class="mono" font-size="10">BioPython · Genomic Sequences · Healthcare</text>
 
-    <!-- Card 4: Cloud & Data Systems -->
+    <!-- Card 4: Data Analytics -->
     <rect x="825" y="0" width="255" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="841" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">04 / INFRASTRUCTURE</text>
-    <text x="841" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Cloud &amp; Data Systems</text>
-    <text x="841" y="58" fill="#f59e0b" class="mono" font-size="10">AWS RDS · Aurora · PostgreSQL · SQL</text>
+    <text x="841" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">04 / PILLAR</text>
+    <text x="841" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Data Analytics</text>
+    <text x="841" y="58" fill="#f59e0b" class="mono" font-size="10">Pandas · NumPy · Visual Analytics · SQL</text>
   </g>
 </svg>
