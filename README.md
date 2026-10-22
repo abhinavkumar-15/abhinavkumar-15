@@ -2,7 +2,7 @@
 
 <!-- Hero Banner (Self-hosted SVG) -->
 <a href="https://abhinavkumar-dev.vercel.app/">
-  <img src="./assets/banner.svg" alt="Abhinav Kumar - AI, Machine Learning, Deep Learning & Bioinformatics Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Abhinav Kumar - AI, Machine Learning, Data Analytics & Bioinformatics Banner" width="100%" />
 </a>
 
 <br/><br/>
@@ -27,17 +27,17 @@
 
 I am an undergraduate specializing in **Artificial Intelligence and Machine Learning** at **Sreyas Institute of Engineering and Technology, Hyderabad (2024 – 2028)**. 
 
-My work focuses on designing predictive architectures, untangling high-dimensional telemetry, and operating at the intersection where computational intelligence informs biological inquiry and real-world physical systems.
+My work focuses on designing predictive architectures, synthesizing high-dimensional datasets, and operating at the intersection where computational intelligence informs biological inquiry and analytical decision systems.
 
 ```yaml
 identity:
   name: "Abhinav Kumar"
-  focus_areas: ["Machine Learning", "Deep Learning", "Bioinformatics", "Predictive Analytics"]
+  focus_areas: ["Machine Learning", "Deep Learning", "Data Analytics", "Bioinformatics"]
   education: "B.Tech in CSE (AI/ML) · Sreyas Institute, Hyderabad [2024 — 2028]"
   location: "Hyderabad, Telangana, India [GMT +5:30]"
   current_status: "Undergraduate Researcher & Engineer"
   open_to:
-    - "AI/ML Engineering Internships & Roles"
+    - "AI/ML & Data Analytics Internships & Roles"
     - "Computational Biology & Healthcare AI Research"
     - "Freelance Architecture & Collaboration"
   philosophy: "Teaching machines to think. Teaching data to talk. Trying to figure out life's source code."
@@ -59,22 +59,23 @@ identity:
     </td>
   </tr>
   <tr>
-    <td width="30%" valign="top"><b>Deep Learning & Modeling</b><br/><i>Neural architectures & multi-horizon forecasting</i></td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/Neural_Network_Modeling-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Neural Networks"/>
-      <img src="https://img.shields.io/badge/Multi--Horizon_Forecasting-2dd4bf?style=flat-square" alt="Multi-Horizon Forecasting"/>
-      <img src="https://img.shields.io/badge/Physics--Informed_ML-f59e0b?style=flat-square" alt="Physics-Informed ML"/>
-      <img src="https://img.shields.io/badge/Loss_Optimization-3b82f6?style=flat-square" alt="Loss Optimization"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" valign="top"><b>Data Analytics & Computing</b><br/><i>Statistical synthesis & empirical analytics</i></td>
+    <td width="30%" valign="top"><b>Data Analytics & Computing</b><br/><i>Statistical synthesis, data modeling & EDA</i></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
       <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
       <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-10b981?style=flat-square" alt="EDA"/>
+      <img src="https://img.shields.io/badge/SQL_Queries_&_Aggregations-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top"><b>Deep Learning & Modeling</b><br/><i>Neural architectures & multi-horizon forecasting</i></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Neural_Network_Modeling-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Neural Networks"/>
+      <img src="https://img.shields.io/badge/Multi--Horizon_Forecasting-2dd4bf?style=flat-square" alt="Multi-Horizon Forecasting"/>
+      <img src="https://img.shields.io/badge/Physics--Informed_ML-f59e0b?style=flat-square" alt="Physics-Informed ML"/>
+      <img src="https://img.shields.io/badge/Loss_Optimization-3b82f6?style=flat-square" alt="Loss Optimization"/>
     </td>
   </tr>
   <tr>
@@ -87,13 +88,12 @@ identity:
     </td>
   </tr>
   <tr>
-    <td width="30%" valign="top"><b>Cloud, Systems & Robotics</b><br/><i>Data infrastructure, cloud DBs & robotics pipelines</i></td>
+    <td width="30%" valign="top"><b>Cloud & Data Infrastructure</b><br/><i>Relational databases, indexing & cloud telemetry</i></td>
     <td width="70%">
       <img src="https://img.shields.io/badge/AWS_RDS_&_Aurora-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS RDS"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Amazon_CloudWatch_&_SNS-FF9900?style=flat-square" alt="AWS CloudWatch"/>
-      <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
-      <img src="https://img.shields.io/badge/Gazebo_&_Nav2_SLAM-f97316?style=flat-square" alt="Gazebo Nav2"/>
+      <img src="https://img.shields.io/badge/Database_Indexing_&_Migrations-0d9488?style=flat-square" alt="Indexing"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
     </td>
   </tr>
@@ -163,9 +163,8 @@ identity:
   - Contributed to data ingestion pipelines and cloud infrastructure for a Wearable Devices Platform.
   - Architected relational schemas, fine-tuned indexing, and verified PostgreSQL migrations for high-throughput streaming on **AWS RDS**, **Aurora PostgreSQL**, **Amazon CloudWatch**, and **Amazon SNS**.
 
-- **Robotics & Autonomous Systems Intern** — `Yotzeron` *(July 2026 – October 2026)*
-  - Developed autonomous mobile robotics pipelines utilizing **ROS 2**.
-  - Built comprehensive simulation testbeds in **Gazebo**, configuring sensor fusion, **SLAM** spatial mapping, and **Nav2** dynamic path planning.
+- **Robotics & Autonomous Pipelines Intern (Exploratory)** — `Yotzeron` *(July 2026 – October 2026)*
+  - Completed an exploratory engineering practicum testing sensor telemetry, spatial mapping, and simulation pipelines with **ROS 2**, **Gazebo**, and **SLAM** to understand physical system constraints.
 
 - **Scopus Research Publication (In Pipeline)** — `IJEM` *(2026)*
   - Primary author for machine learning research paper accepted / in pipeline at the *International Journal of Engineering Management*.
@@ -217,7 +216,7 @@ Outside the codebase, personal discipline and artistic traditions shape how I ap
 
 ## ◈ 07 / Get in Touch & Correspondence
 
-Whether you're looking to discuss AI/ML engineering roles, computational biology collaborations, or system architecture inquiries:
+Whether you're looking to discuss AI/ML & Data Analytics engineering roles, computational biology research collaborations, or system architecture inquiries:
 
 <div align="center">
 

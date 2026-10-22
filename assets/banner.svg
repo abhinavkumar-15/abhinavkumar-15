@@ -78,14 +78,14 @@
   <!-- Main Hero Heading -->
   <g transform="translate(60, 140)">
     <text x="0" y="0" fill="#f4f4f5" class="serif" font-size="52" font-weight="400" letter-spacing="-0.5">Abhinav Kumar</text>
-    <text x="440" y="-8" fill="#2dd4bf" class="mono" font-size="14" letter-spacing="3">[ AI · ML · DL · BIOINFORMATICS ]</text>
+    <text x="410" y="-8" fill="#2dd4bf" class="mono" font-size="12.5" letter-spacing="2.5">[ AI · ML · DATA ANALYTICS · BIOINFORMATICS ]</text>
     
     <!-- Accent Line -->
     <rect x="0" y="16" width="1080" height="1.5" fill="url(#accentLine)" />
     
     <!-- Tagline & Core Positioning -->
     <text x="0" y="52" fill="#a1a1aa" class="sans" font-size="17" font-weight="300" letter-spacing="0.2">
-      Undergraduate researcher designing predictive architectures, exploring high-dimensional telemetry,
+      Undergraduate researcher designing predictive architectures, synthesizing high-dimensional data,
     </text>
     <text x="0" y="78" fill="#d4d4d8" class="sans" font-size="17" font-weight="400" letter-spacing="0.2">
       and operating at the intersection where computational intelligence informs biological inquiry.
@@ -100,22 +100,22 @@
     <text x="16" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Machine Learning &amp; DL</text>
     <text x="16" y="58" fill="#2dd4bf" class="mono" font-size="10">LOBO CV · SHAP · Ridge · PyTorch</text>
 
-    <!-- Card 2: Bioinformatics -->
+    <!-- Card 2: Data Analytics -->
     <rect x="275" y="0" width="250" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="291" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">02 / FRONTIER</text>
-    <text x="291" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Bioinformatics</text>
-    <text x="291" y="58" fill="#38bdf8" class="mono" font-size="10">BioPython · Genomic Sequences</text>
+    <text x="291" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">02 / CORE PILLAR</text>
+    <text x="291" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Data Analytics &amp; EDA</text>
+    <text x="291" y="58" fill="#38bdf8" class="mono" font-size="10">Pandas · NumPy · Visual Analytics</text>
 
-    <!-- Card 3: Autonomous & Cloud Systems -->
+    <!-- Card 3: Bioinformatics -->
     <rect x="550" y="0" width="250" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="566" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">03 / INFRASTRUCTURE</text>
-    <text x="566" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Cloud &amp; Robotics</text>
-    <text x="566" y="58" fill="#f59e0b" class="mono" font-size="10">AWS RDS · ROS 2 · PostgreSQL</text>
+    <text x="566" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">03 / FRONTIER</text>
+    <text x="566" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Bioinformatics</text>
+    <text x="566" y="58" fill="#10b981" class="mono" font-size="10">BioPython · Genomic Sequences</text>
 
-    <!-- Card 4: Curated Essays -->
+    <!-- Card 4: Cloud & Data Systems -->
     <rect x="825" y="0" width="255" height="68" rx="8" fill="url(#cardGrad)" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
-    <text x="841" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">04 / CREATIVE INQUIRY</text>
-    <text x="841" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Thryve Publishing</text>
-    <text x="841" y="58" fill="#fb7185" class="mono" font-size="10">thryve-blog.web.app · Essays</text>
+    <text x="841" y="24" fill="#71717a" class="mono" font-size="9.5" letter-spacing="1.5">04 / INFRASTRUCTURE</text>
+    <text x="841" y="44" fill="#f4f4f5" class="sans" font-size="13.5" font-weight="500">Cloud &amp; Data Systems</text>
+    <text x="841" y="58" fill="#f59e0b" class="mono" font-size="10">AWS RDS · Aurora · PostgreSQL · SQL</text>
   </g>
 </svg>
