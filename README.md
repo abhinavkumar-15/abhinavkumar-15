@@ -29,23 +29,15 @@ I am an undergraduate specializing in **Artificial Intelligence and Machine Lear
 
 My work focuses on designing predictive architectures, synthesizing high-dimensional datasets, and operating at the intersection where computational intelligence informs biological inquiry and analytical decision systems.
 
-```yaml
-identity:
-  name: "Abhinav Kumar"
-  focus_areas:
-    - "AI & ML"
-    - "Deep Learning"
-    - "Bioinformatics"
-    - "Data Analytics"
-  education: "B.Tech in CSE (AI/ML) · Sreyas Institute, Hyderabad [2024 — 2028]"
-  location: "Hyderabad, Telangana, India [GMT +5:30]"
-  current_status: "Undergraduate Researcher & Engineer"
-  open_to:
-    - "AI/ML & Data Analytics Internships & Roles"
-    - "Computational Biology & Healthcare AI Research"
-    - "Freelance Architecture & Collaboration"
-  philosophy: "Teaching machines to think. Teaching data to talk. Trying to figure out life's source code."
-```
+| Dimension | Specification |
+| :--- | :--- |
+| **Academic Trajectory** | **B.Tech in Computer Science & Engineering (AI/ML)**<br/>*Sreyas Institute of Engineering and Technology, Hyderabad (2024 — 2028)* |
+| **Core Pillars** | **01 AI & ML** · **02 Deep Learning** · **03 Bioinformatics** · **04 Data Analytics** |
+| **Research Frontiers** | High-dimensional data synthesis · Healthcare prognostics & genomic sequence analysis |
+| **Industry Practice** | Cloud data pipelines & relational schemas (*Core Defender AI*) · Autonomous telemetry pipelines (*Yotzeron*) |
+| **Status & Availability** | **Open to AI/ML & Data Analytics internships, research collaborations & engineering roles** |
+
+> *“Teaching machines to think. Teaching data to talk. Trying to figure out life's source code.”*
 
 <img src="./assets/divider.svg" width="100%" height="6" alt="Divider" />
 
